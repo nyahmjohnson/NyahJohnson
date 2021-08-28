@@ -1,0 +1,15 @@
+<p>Test</p>
+
+<form action="http://www.google.com" method='get'>
+
+    <label for="emailtag">EMAIL:</label>
+   <input id="emailtag" type="email" name="useremail" placeholder="Input Email Here">
+
+   <br>
+
+   <label for="passtag">PASSWORD:</label>
+   <input type="password" name="password" id="passtag" placeholder="password">
+
+   <input type="submit" name="" id="Submit">
+
+</form>
